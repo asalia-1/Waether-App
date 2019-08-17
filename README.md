@@ -1,10 +1,10 @@
 
-##Tools used 
+## Tools used 
 Openweather API, react, Heroku
 
 ## To run the project locally
-[] clone the repo
-[] In the project directory, you can run:
+- clone the repo
+- In the project directory, you can run:
 
 ## To run online
 Use this link
