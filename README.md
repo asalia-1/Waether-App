@@ -1,6 +1,6 @@
 
 ## Tools used 
-Openweather API, react, Heroku
+## Openweather API, react, Heroku
 
 ## To run the project locally
 - clone the repo
