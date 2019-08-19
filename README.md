@@ -2,6 +2,11 @@
 ## Tools used 
 ## Openweather API, react, Heroku
 
+## TODO
+- Fix browser security bug when user tries to run on heroku cloud
+### - temporary fix is to turn off security settings for browser to see functionality of the app or clone repo and run on local server
+
+
 ## To run online
 Use this [link](https://weatherme-app.herokuapp.com)
 
